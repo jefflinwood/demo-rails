@@ -23,7 +23,8 @@
                 "id": "db",
                 "value": "dbConnectionString"
               }
-            }
+            },
+            "NIXPACKS_VERSION": "1.5.0"
           }
         },
         {
