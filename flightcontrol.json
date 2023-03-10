@@ -11,10 +11,10 @@
         {
           "id": "rails-webapp",
           "name": "Rails Webapp",
+          "buildType": "nixpacks",
           "type": "fargate",
           "cpu": 0.25,
           "memory": 0.5,
-          "domain": "www.example.com",
           "minInstances": 1,
           "maxInstances": 1,
           "envVariables": {
